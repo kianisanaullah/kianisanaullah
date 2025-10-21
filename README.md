@@ -18,7 +18,7 @@ I love solving complex problems, optimizing performance, and building elegant us
 
 ## 🌟 Highlights
 - ⚡ Developed **booking platforms** with real-time availability, payments, and notifications  
-- 🐟 Built **fishing community portals** (e.g., 976-Tuna / VirtualLanding) with trip booking, Twilio SMS, and payments  
+- 🐟 Built **fishing community portals** with trip booking, Twilio SMS, and payments  
 - 🏠 Worked on **real estate portals** with property listings, search filters, and geolocation maps  
 - 🧪 Founded **AI-powered ingredient toxicity checker (MyToxiCheck)** using GPT for OCR & classification  
 - 📊 Delivered **dashboards & reporting systems** handling thousands of records with performance tuning  
