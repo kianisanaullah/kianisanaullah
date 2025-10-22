@@ -1,48 +1,73 @@
-# Hi, I'm Sanaullah 👋  
-🚀 Full-Stack Software Engineer | Laravel & AI-Powered Solutions  
-
-I’m a highly skilled **Full-Stack Developer** with 8+ years of experience designing and developing **modern SaaS platforms, booking systems, e-commerce sites, real estate portals, and confidential government projects**.  
-I love solving complex problems, optimizing performance, and building elegant user experiences with a strong focus on scalability and security.
+<div align="center">
+  <table>
+    <tr>
+      <td width="80%" valign="middle">
+        <h1> I'm <span style="color:#2563eb;">Sanaullah</span></h1>
+        <h3>🚀 Full-Stack Software Engineer | Laravel & AI-Powered Digital Solutions</h3>
+        <p>
+          I’m a passionate developer crafting <b>scalable SaaS, booking, and real-estate platforms</b> — now exploring <b>AI integrations</b> (GPT, Whisper, DALL·E).  
+          I focus on <b>clean architecture</b>, performance optimization, and building meaningful digital products that scale.
+        </p>
+        <p>
+          💡 Always learning & experimenting · 🌍 Open to collaboration · 🧠 Exploring AI-driven automation
+        </p>
+      </td>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Developer illustration"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
-
-## 🛠️ My Expertise
-- **Backend:** PHP, Laravel (5.x → 12.x), Livewire, Filament, REST APIs, Microservices  
-- **Frontend:** Vue.js, React.js, Next.js, Livewire, Alpine.js, Bootstrap, Tailwind CSS  
-- **JavaScript:** ES6+, Node.js, TypeScript, Vite, SSR with Next.js  
-- **Databases:** MySQL (Aurora RDS), Oracle 11g  
-- **DevOps/Cloud:** AWS (EC2, S3, RDS), Apache/Nginx, CI/CD, Docker, GitHub Actions  
-- **AI/ML:** OpenAI GPT, Whisper, DALL·E, AI SaaS Integrations  
-
----
-
-## 🌟 Highlights
-- ⚡ Developed **scalable booking platforms** with real-time availability, payments, and notifications  
-- 🌐 Built **community-driven portals** with integrated communication and payment solutions  
-- 🏠 Delivered **real estate platforms** featuring property listings, advanced search, and geolocation maps  
-- 🤖 Created **AI-powered applications** using OCR, NLP, and image processing for automation and insights  
-- 📊 Implemented **dashboards & reporting systems** optimized for performance and large datasets  
-- 🔒 Contributed to **government-grade digital projects** with a strong focus on security and reliability  
----
-
-## 📚 Tech Stack (Compact)
+## 📚 Tech Focus
 
 **Languages & Frameworks**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
 **Cloud & Tools**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 **AI & Exploration**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-AI-blue) ![DALL·E](https://img.shields.io/badge/DALL·E-000000?logo=openai&logoColor=white)  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-AI-blue) ![DALL·E](https://img.shields.io/badge/DALL·E-000000?logo=openai&logoColor=white)
 
 ---
 
-## 📫 Let’s Connect  
-- [LinkedIn](https://www.linkedin.com/in/sanaullahkiani)  
-- [GitHub](https://github.com/kianisanaullah)  
+### 🌟 Highlights
+- ⚙️ Built **SaaS & booking platforms** with real-time payments & analytics
+- 🤖 Developed **AI-enhanced applications** using OCR, NLP & automation
+- 🏙️ Delivered **real-estate and community systems** with dashboards & maps
+- 🔒 Contributed to **secure enterprise and confidential projects**
 
-💡 *Exploring AI, building booking platforms, and delivering scalable SaaS & digital solutions.*
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<!-- Donut charts & cards (LIGHT THEME) -->
+<img src="https://raw.githubusercontent.com/kianisanaullah/kianisanaullah/main/profile-summary-card-output/default/1-repos-per-language.svg" height="160" />
+<img src="https://raw.githubusercontent.com/kianisanaullah/kianisanaullah/main/profile-summary-card-output/default/2-most-commit-language.svg" height="160" />
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=kianisanaullah&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
+
+</div>
+
+<p align="center"><i>📁 Note: Most of my work is in private repositories, so contribution stats may not fully reflect my experience.</i></p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kianisanaullah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kianisanaullah"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+
+[//]: # (  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>)
+</p>
+
+---
+
+<p align="center"><i>🚀 Exploring AI, scaling with Laravel, and crafting experiences that matter.</i></p>
