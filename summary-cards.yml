@@ -1,16 +1,25 @@
 name: Summary Cards
+
 on:
-  schedule: [{cron: "0 0 * * *"}] # daily
-  workflow_dispatch: {}
+  workflow_dispatch: {}          # lets you run it manually now
+  schedule:
+    - cron: "0 */6 * * *"        # every 6 hours (adjust as you like)
+
+permissions:
+  contents: write                # allow the action to commit SVGs
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: kianisanaullah
-          UTC_OFFSET: "+04:00"
-          THEME: github   # You can use dracula, tokyonight, solarized, monokai
+          THEME: default          # light
+          UTC_OFFSET: "+04:00"    # UAE; change if needed
